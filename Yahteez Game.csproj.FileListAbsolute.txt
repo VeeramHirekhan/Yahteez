@@ -1,0 +1,9 @@
+C:\Users\veeram\Desktop\cis200\Yahteez Game\Yahteez Game\bin\Debug\Yahteez Game.exe.config
+C:\Users\veeram\Desktop\cis200\Yahteez Game\Yahteez Game\bin\Debug\Yahteez Game.exe
+C:\Users\veeram\Desktop\cis200\Yahteez Game\Yahteez Game\bin\Debug\Yahteez Game.pdb
+C:\Users\veeram\Desktop\cis200\Yahteez Game\Yahteez Game\obj\Debug\Yahteez Game.csprojResolveAssemblyReference.cache
+C:\Users\veeram\Desktop\cis200\Yahteez Game\Yahteez Game\obj\Debug\Yahteez_Game.Form1.resources
+C:\Users\veeram\Desktop\cis200\Yahteez Game\Yahteez Game\obj\Debug\Yahteez_Game.Properties.Resources.resources
+C:\Users\veeram\Desktop\cis200\Yahteez Game\Yahteez Game\obj\Debug\Yahteez Game.csproj.GenerateResource.Cache
+C:\Users\veeram\Desktop\cis200\Yahteez Game\Yahteez Game\obj\Debug\Yahteez Game.exe
+C:\Users\veeram\Desktop\cis200\Yahteez Game\Yahteez Game\obj\Debug\Yahteez Game.pdb
